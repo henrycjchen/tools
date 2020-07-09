@@ -1,5 +1,4 @@
-let a = 1;
-let b = 2;
-function c() {
-  console.log(a);
+function a() {
+  let b = 1;
+  console.log(b);
 }
