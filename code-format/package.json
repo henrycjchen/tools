@@ -1,0 +1,18 @@
+{
+  "name": "code-format",
+  "version": "1.0.0",
+  "description": "受益于 `eslint-config-alloy`，其完善的教程为前端代码格式化指明了前进的道路",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.4.0",
+    "eslint-config-alloy": "^3.7.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
